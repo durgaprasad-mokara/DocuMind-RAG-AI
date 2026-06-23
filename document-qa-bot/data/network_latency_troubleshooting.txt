@@ -1,0 +1,3 @@
+Network Latency Troubleshooting
+
+High latency is often caused by routing through sub-optimal regions. Ensure your compute instances are deployed in the same region as your database. For global load balancing, enable CDN features.

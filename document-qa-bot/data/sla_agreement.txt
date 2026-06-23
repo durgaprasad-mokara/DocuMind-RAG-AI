@@ -1,0 +1,3 @@
+Service Level Agreement (SLA)
+
+We guarantee 99.9% uptime for our core compute services. If uptime falls below 99.9% in a given month, customers are eligible for a 10% service credit. If it falls below 99.0%, a 30% credit is applied. Credits must be requested within 30 days.
